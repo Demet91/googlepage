@@ -63,7 +63,7 @@
   }
   .logo {
     text-align: center;
-    margin-top: 250px;
+    margin-top: 100px;
   }
   
   .search {
@@ -83,6 +83,7 @@
   }
   .search:hover {
     box-shadow: 2px 3px rgba(157, 157, 157, 0.3);
+    
   }
   #search-area {
     width: 400px;
@@ -117,7 +118,7 @@
     margin-top: 25px;
   }
   footer {
-    margin-top: 288px;
+    margin-top: 160px;
     background-color: #f2f2f2;
   }
   footer .footer {
